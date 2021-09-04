@@ -40,19 +40,6 @@ export const defaultBags = [
     ],
   },
   {
-    id: 6969,
-    attributes: [
-      "Chain Mail",
-      "Holy Greaves of Giants",
-      "Silk Gloves",
-      "Dragon's Crown",
-      "Pendant of Perfection",
-      "Titanium Ring of Giants",
-      "Heavy Belt",
-      "Bone Wand",
-    ],
-  },
-  {
     id: 1234,
     attributes: [
       "Holy Chestplate",
